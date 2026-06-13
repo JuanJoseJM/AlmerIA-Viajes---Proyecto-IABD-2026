@@ -1,4 +1,4 @@
-# AlmerIA Viajes - Proyecto IABD 2026 - By: Juan José JM
+# AlmerIA Viajes - Proyecto IABD 2026 - Juan José JM
 
 [![AWS RDS](https://img.shields.io/badge/Infrastructure-AWS%20RDS-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
