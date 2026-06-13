@@ -15,8 +15,6 @@ Para conocer en profundidad la arquitectura del negocio, los desafíos técnicos
 
 [![Ver Presentación en Gamma](https://img.shields.io/badge/💻_VER_PRESENTACIÓN-GAMMA_APP-darkviolet?style=for-the-badge&logo=gamma&logoColor=white)](https://gamma.app/docs/JJJM-Proyecto-IABD-2026-1va996d2c8m1o0z)
 
-> 💡 *Nota: Reemplaza `TU_ENLACE_DE_GAMMA_AQUÍ` en el código por la URL pública para compartir que te proporciona Gamma.*
-
 ---
 
 ## 🛠️ Arquitectura del Stack Tecnológico
