@@ -5,7 +5,7 @@
 [![Framework-Gradio](https://img.shields.io/badge/UI%20Framework-Gradio-animation?style=flat-square&logo=gradio)](https://gradio.app/)
 [![NLP-BERT](https://img.shields.io/badge/NLP-Transformers%20BERT-green?style=flat-square&logo=huggingface)](https://huggingface.co/)
 
-**SentiAlmería AI** es una plataforma integral de Ingeniería de Datos e Inteligencia Artificial diseñada para la monitorización reputacional, demográfica y geoespacial del sector turístico en la provincia de Almería. El sistema unifica registros oficiales del catastro hotelero con flujos de opiniones subjetivas de la web, enriqueciéndolos mediante modelos de Deep Learning (*Transformers*) para la toma de decisiones proactivas en la gestión de destinos.
+**AlmerIA Viajes** es una plataforma integral de Ingeniería de Datos e Inteligencia Artificial diseñada para la monitorización reputacional, demográfica y geoespacial del sector turístico en la provincia de Almería. El sistema unifica registros oficiales del catastro hotelero con flujos de opiniones subjetivas de la web, enriqueciéndolos mediante modelos de Deep Learning (*Transformers*) para la toma de decisiones proactivas en la gestión de destinos.
 
 ---
 
