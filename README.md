@@ -58,5 +58,5 @@ sentialmeria-ai/
 │   └── SentiAlmeria_Mapa_Clientes.html # Entregable cartográfico autónomo a pantalla completa
 │
 └── docs/                           # Memorias técnicas, evolución de problemas y retos
-    ├── ANTEPROYECTO - AlmerIA Viajes (Idea).pdf
+    ├── JuanJose_JuarezMensales-Proyecto AlmerIA Viajes-IABD-2026.pdf.pdf
     └── Problemas y soluciones_AlmerIA Viajes.pdf
