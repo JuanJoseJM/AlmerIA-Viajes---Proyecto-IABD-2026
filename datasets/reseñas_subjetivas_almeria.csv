@@ -1,0 +1,471 @@
+establishment_name|plataforma|estrellas|review_text|categoria_sentimiento|edad|sexo
+CORTIJO DEL AIRE|Expedia|3|Estancia pasable. Es un sitio de paso correcto, la comida es casera y tradicional pero el local necesita una reforma.|Neutral|52|Hombre
+CORTIJO DEL AIRE|Expedia|1|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|34|Hombre
+NATUR WORLD|Booking|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|55|Hombre
+NATUR WORLD|Google Maps|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|63|Mujer
+VIAJES LA CAÑADA|Booking|2|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|24|Mujer
+VIAJES LA CAÑADA|Google Maps|4|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|34|Mujer
+VIAJES LA CAÑADA|Trivago|3|Cumple con lo básico. Una taberna tradicional de comida casera con un trato del personal simplemente cordial.|Neutral|42|Hombre
+CORTIJO MARTINEZ|Booking|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|43|Mujer
+CORTIJO MARTINEZ|TripAdvisor|2|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|35|Hombre
+LA IGLESIA|TripAdvisor|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|21|Hombre
+LA IGLESIA|Google Maps|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|28|Hombre
+LOS CUATRO OLIVOS|Google Maps|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|27|Hombre
+LOS CUATRO OLIVOS|Expedia|3|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|68|Hombre
+LOS CUATRO OLIVOS|Booking|3|Ubicación céntrica ideal para comer algo rápido. Tienen comida casera típica de la zona, un servicio normal ni bueno ni malo.|Neutral|19|Hombre
+ACTIVIDADES NÁUTICAS COTA ZERO|Google Maps|4|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|46|Hombre
+ACTIVIDADES NÁUTICAS COTA ZERO|Trivago|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|61|Hombre
+LA BODEGUILLA DE LUIS|Google Maps|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|34|Hombre
+LA BODEGUILLA DE LUIS|Booking|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|68|Hombre
+LA BODEGUILLA DE LUIS|Google Maps|5|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|51|Hombre
+CORTIJO LA ENCINA|Google Maps|4|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|46|Mujer
+CORTIJO LA ENCINA|Google Maps|1|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|75|Hombre
+CORTIJO LA ENCINA|Google Maps|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|43|Hombre
+APARTAMENTOS DULCEMAR|Google Maps|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|69|Hombre
+APARTAMENTOS DULCEMAR|Expedia|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|22|Mujer
+APARTAMENTOS DULCEMAR|TripAdvisor|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|48|Mujer
+KAYAK LA ISLA|Trivago|2|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|55|Hombre
+KAYAK LA ISLA|Google Maps|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|23|Hombre
+KAYAK LA ISLA|Booking|2|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|67|Hombre
+CORTIJO LAS GACHAS|Trivago|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|68|Hombre
+CORTIJO LAS GACHAS|Booking|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|39|Mujer
+CASA CIGARRÓN|Booking|5|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|41|Mujer
+CASA CIGARRÓN|Trivago|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|62|Mujer
+LAS NEGRAS MULTISERVICIOS|Trivago|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|20|Hombre
+LAS NEGRAS MULTISERVICIOS|Trivago|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|68|Hombre
+DON ANGEL|Google Maps|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|24|Mujer
+DON ANGEL|TripAdvisor|2|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|27|Mujer
+PLAYAVERA|Expedia|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|18|Mujer
+PLAYAVERA|Trivago|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|20|Mujer
+PLAYAVERA|Booking|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|28|Mujer
+LA MOLIENDA MOLINO FERNÁN PÉREZ|Expedia|1|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|18|Mujer
+LA MOLIENDA MOLINO FERNÁN PÉREZ|Booking|3|Cumple con lo básico. Una taberna tradicional de comida casera con un trato del personal simplemente cordial.|Neutral|47|Hombre
+MAMABEL'S|Expedia|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|62|Hombre
+MAMABEL'S|Expedia|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|30|Mujer
+HOSPEDERIA MONTES|Booking|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|61|Hombre
+HOSPEDERIA MONTES|Google Maps|2|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|32|Hombre
+HOSPEDERIA MONTES|Trivago|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|53|Hombre
+START|Google Maps|3|Precio acorde a lo que ofrecen. Comida casera y raciones normales, una experiencia estándar sin pretensiones.|Neutral|62|Hombre
+START|Trivago|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|45|Mujer
+START|TripAdvisor|3|Un establecimiento correcto con un menú de comida casera a precio razonable. El personal cumple sin destacar en nada.|Neutral|32|Mujer
+CABOACTIVO|TripAdvisor|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|23|Mujer
+CABOACTIVO|Expedia|3|Ubicación céntrica ideal para comer algo rápido. Tienen comida casera típica de la zona, un servicio normal ni bueno ni malo.|Neutral|41|Hombre
+PARRA TRAVEL (CENTRAL)|Booking|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|52|Mujer
+PARRA TRAVEL (CENTRAL)|Booking|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|28|Mujer
+FLAMENCO|Expedia|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|51|Hombre
+FLAMENCO|Trivago|2|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|61|Mujer
+LA ABUVILLA|TripAdvisor|4|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|29|Hombre
+LA ABUVILLA|Google Maps|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|71|Hombre
+LA ABUVILLA|Expedia|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|32|Mujer
+CORTIJO TORREBLANCA- CASA AZULETE|TripAdvisor|3|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|57|Hombre
+CORTIJO TORREBLANCA- CASA AZULETE|Expedia|1|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|37|Mujer
+LA CORTIJADA|Booking|5|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|38|Mujer
+LA CORTIJADA|Booking|2|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|30|Hombre
+FENIX|TripAdvisor|2|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|69|Mujer
+FENIX|TripAdvisor|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|58|Hombre
+FENIX|Booking|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|41|Mujer
+CELEMIN & FORMACIÓN|Google Maps|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|33|Hombre
+CELEMIN & FORMACIÓN|Expedia|2|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|50|Hombre
+LOS GALLARDOS|Booking|2|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|62|Hombre
+LOS GALLARDOS|Trivago|2|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|66|Hombre
+CASA DE LOS ARCOS|Trivago|4|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|18|Mujer
+CASA DE LOS ARCOS|Google Maps|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|46|Hombre
+VALLE DEL ALMANZORA|Booking|3|Un establecimiento correcto con un menú de comida casera a precio razonable. El personal cumple sin destacar en nada.|Neutral|40|Mujer
+VALLE DEL ALMANZORA|Expedia|4|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|38|Mujer
+VALLE DEL ALMANZORA|Booking|2|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|65|Mujer
+DONATO|Expedia|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|30|Mujer
+DONATO|TripAdvisor|2|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|51|Hombre
+DONATO|TripAdvisor|1|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|56|Mujer
+EL CORTIJO DE RAUL|Trivago|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|75|Hombre
+EL CORTIJO DE RAUL|Google Maps|3|Cumple con lo básico. Una taberna tradicional de comida casera con un trato del personal simplemente cordial.|Neutral|27|Mujer
+CORTIJO EL PARAISO|Google Maps|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|32|Mujer
+CORTIJO EL PARAISO|Expedia|5|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|28|Mujer
+CORTIJO EL PARAISO|Booking|3|Estancia pasable. Es un sitio de paso correcto, la comida es casera y tradicional pero el local necesita una reforma.|Neutral|32|Mujer
+VIAJES. D PARTIDA (CENTRAL)|Booking|4|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|44|Mujer
+VIAJES. D PARTIDA (CENTRAL)|Expedia|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|74|Mujer
+LA SOCIEDAD|TripAdvisor|3|El sitio está bien situado, sirven comida casera aceptable pero el servicio es algo lento. Las instalaciones son estándar.|Neutral|64|Hombre
+LA SOCIEDAD|Expedia|4|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|28|Mujer
+TORREON|Expedia|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|33|Mujer
+TORREON|Trivago|2|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|31|Hombre
+CASAS MARIA CARMONA 3|Booking|3|Un lugar de comida casera normal y corriente. El menú del día es aceptable por el precio, sin grandes lujos.|Neutral|58|Mujer
+CASAS MARIA CARMONA 3|Expedia|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|34|Mujer
+CASAS MARIA CARMONA 3|TripAdvisor|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|59|Hombre
+BEST MOJACAR|Google Maps|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|28|Mujer
+BEST MOJACAR|Trivago|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|29|Hombre
+FLANDRIA INTERNACIONAL TRAVEL|Booking|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|69|Hombre
+FLANDRIA INTERNACIONAL TRAVEL|Expedia|5|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|20|Mujer
+OLYMPIA MEDITERRANEO|TripAdvisor|3|Estancia pasable. Es un sitio de paso correcto, la comida es casera y tradicional pero el local necesita una reforma.|Neutral|41|Hombre
+OLYMPIA MEDITERRANEO|Trivago|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|22|Mujer
+CORTIJO EL VIENTO|Expedia|1|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|23|Hombre
+CORTIJO EL VIENTO|Google Maps|4|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|61|Hombre
+CORTIJO EL VIENTO|Expedia|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|40|Hombre
+PROTUR ROQUETAS HOTEL & SPA|Booking|3|Un lugar de comida casera normal y corriente. El menú del día es aceptable por el precio, sin grandes lujos.|Neutral|40|Hombre
+PROTUR ROQUETAS HOTEL & SPA|Google Maps|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|41|Hombre
+CORTIJO LA MOLINA|Booking|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|72|Mujer
+CORTIJO LA MOLINA|Booking|3|Un establecimiento correcto con un menú de comida casera a precio razonable. El personal cumple sin destacar en nada.|Neutral|35|Mujer
+CERO OCHO|Trivago|3|El sitio está bien situado, sirven comida casera aceptable pero el servicio es algo lento. Las instalaciones son estándar.|Neutral|75|Hombre
+CERO OCHO|Google Maps|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|59|Mujer
+CABO MAR|Booking|5|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|48|Mujer
+CABO MAR|Expedia|5|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|29|Mujer
+PARAISO TOUR VIAJES|TripAdvisor|3|Precio acorde a lo que ofrecen. Comida casera y raciones normales, una experiencia estándar sin pretensiones.|Neutral|57|Mujer
+PARAISO TOUR VIAJES|Expedia|4|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|25|Mujer
+PARAISO TOUR VIAJES|Booking|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|70|Hombre
+ALEGRIA CABO DE GATA|Expedia|3|Ubicación céntrica ideal para comer algo rápido. Tienen comida casera típica de la zona, un servicio normal ni bueno ni malo.|Neutral|52|Mujer
+ALEGRIA CABO DE GATA|Booking|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|41|Mujer
+HOTEL CARBONERAS CABO DE GATA|TripAdvisor|2|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|23|Mujer
+HOTEL CARBONERAS CABO DE GATA|Booking|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|40|Mujer
+HOTEL CARBONERAS CABO DE GATA|Trivago|2|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|62|Mujer
+LA ALACENA DE LAUJAR|Expedia|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|38|Mujer
+LA ALACENA DE LAUJAR|Expedia|2|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|26|Mujer
+CUATRO VIENTOS|Booking|4|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|37|Hombre
+CUATRO VIENTOS|Booking|3|Está bien para parar en ruta y tomar un menú de comida casera rápido. Instalaciones pasables y ambiente familiar.|Neutral|73|Mujer
+CORTIJO EL ALAMO|TripAdvisor|3|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|43|Mujer
+CORTIJO EL ALAMO|TripAdvisor|1|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|32|Mujer
+CENTRO BUCEO MOJACAR|Expedia|5|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|74|Hombre
+CENTRO BUCEO MOJACAR|Trivago|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|58|Mujer
+CENTRO BUCEO MOJACAR|Trivago|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|66|Mujer
+VIAJES NARILA|Expedia|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|74|Hombre
+VIAJES NARILA|TripAdvisor|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|71|Mujer
+EL DORADO|Booking|2|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|71|Hombre
+EL DORADO|TripAdvisor|2|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|54|Mujer
+EL DORADO|Google Maps|3|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|22|Hombre
+BUCEO AGUADULCE|Trivago|4|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|27|Mujer
+BUCEO AGUADULCE|TripAdvisor|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|53|Mujer
+BUCEO AGUADULCE|TripAdvisor|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|63|Mujer
+ESPERANZA|TripAdvisor|3|Cumple con lo básico. Una taberna tradicional de comida casera con un trato del personal simplemente cordial.|Neutral|36|Mujer
+ESPERANZA|Expedia|3|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|33|Hombre
+FELIPE|Trivago|2|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|31|Hombre
+FELIPE|Booking|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|29|Mujer
+FELIPE|Expedia|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|39|Mujer
+CAMPING VALLE DEL ANDARAX|TripAdvisor|2|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|74|Mujer
+CAMPING VALLE DEL ANDARAX|Expedia|1|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|32|Hombre
+CAMPING VALLE DEL ANDARAX|Booking|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|33|Hombre
+EL NACIMIENTO DEL RINCON|Booking|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|73|Mujer
+EL NACIMIENTO DEL RINCON|Trivago|2|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|65|Hombre
+EL NACIMIENTO DEL RINCON|TripAdvisor|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|69|Mujer
+CUADRADO|Expedia|2|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|40|Hombre
+CUADRADO|Booking|3|Cumple con lo básico. Una taberna tradicional de comida casera con un trato del personal simplemente cordial.|Neutral|45|Mujer
+METIRONOMETIRO|Expedia|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|33|Hombre
+METIRONOMETIRO|Expedia|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|70|Mujer
+LA ERA|Trivago|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|43|Mujer
+LA ERA|Booking|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|29|Hombre
+LA ERA|Trivago|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|39|Hombre
+VILLA LOLI I|Trivago|3|Un establecimiento correcto con un menú de comida casera a precio razonable. El personal cumple sin destacar en nada.|Neutral|60|Hombre
+VILLA LOLI I|Booking|4|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|19|Mujer
+VILLA LOLI I|Google Maps|4|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|74|Mujer
+CORTIJO DE LA CUEVA|Expedia|4|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|28|Hombre
+CORTIJO DE LA CUEVA|Trivago|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|54|Mujer
+VIAJES AGORA   (CENTRAL)|Google Maps|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|52|Hombre
+VIAJES AGORA   (CENTRAL)|Google Maps|3|El sitio está bien situado, sirven comida casera aceptable pero el servicio es algo lento. Las instalaciones son estándar.|Neutral|58|Hombre
+AGUADULCE|Expedia|1|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|48|Mujer
+AGUADULCE|Expedia|4|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|23|Hombre
+DON FELIPE|Booking|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|40|Hombre
+DON FELIPE|Trivago|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|47|Hombre
+DON FELIPE|TripAdvisor|4|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|69|Hombre
+EL CERRILLO|Trivago|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|74|Mujer
+EL CERRILLO|Expedia|1|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|26|Hombre
+EL CERRILLO|Booking|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|53|Hombre
+AIRE ANCIENT BATH|Expedia|4|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|29|Hombre
+AIRE ANCIENT BATH|Booking|2|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|66|Hombre
+AIRE ANCIENT BATH|Expedia|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|58|Mujer
+LAS MENAS|Google Maps|5|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|42|Hombre
+LAS MENAS|TripAdvisor|3|Cumple con lo básico. Una taberna tradicional de comida casera con un trato del personal simplemente cordial.|Neutral|22|Hombre
+LAS MENAS|Expedia|2|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|34|Mujer
+MAR DE PULPI HOLIDAY SPORTS CENTRE|Expedia|2|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|72|Mujer
+MAR DE PULPI HOLIDAY SPORTS CENTRE|Trivago|2|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|26|Mujer
+EL TIO KIKO|Expedia|3|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|22|Mujer
+EL TIO KIKO|Expedia|4|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|38|Hombre
+EL TIO KIKO|Trivago|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|63|Hombre
+CASA JOEL|TripAdvisor|3|Estancia pasable. Es un sitio de paso correcto, la comida es casera y tradicional pero el local necesita una reforma.|Neutral|62|Mujer
+CASA JOEL|Trivago|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|75|Mujer
+ALMERITOURS AVENTURA Y VACACIONES|Trivago|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|70|Hombre
+ALMERITOURS AVENTURA Y VACACIONES|Booking|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|47|Hombre
+ALMERITOURS AVENTURA Y VACACIONES|Expedia|2|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|60|Mujer
+ADARIA VERA|TripAdvisor|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|67|Mujer
+ADARIA VERA|Expedia|4|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|38|Mujer
+MEDITERRANEO|Booking|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|44|Hombre
+MEDITERRANEO|Expedia|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|56|Hombre
+MEDITERRANEO|Expedia|4|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|37|Mujer
+ENTRESIERRAS|Expedia|1|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|53|Mujer
+ENTRESIERRAS|Expedia|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|47|Hombre
+ENTRESIERRAS|Expedia|1|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|39|Mujer
+ARCO PLAZA|Google Maps|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|23|Hombre
+ARCO PLAZA|Trivago|1|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|40|Mujer
+ALMERIA BIKE TOURS|Expedia|3|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|44|Mujer
+ALMERIA BIKE TOURS|TripAdvisor|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|27|Mujer
+COSTASOL|Google Maps|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|55|Hombre
+COSTASOL|Google Maps|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|44|Mujer
+ILUMINADA-3|Expedia|3|Ubicación céntrica ideal para comer algo rápido. Tienen comida casera típica de la zona, un servicio normal ni bueno ni malo.|Neutral|67|Mujer
+ILUMINADA-3|Booking|4|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|62|Mujer
+ILUMINADA-3|TripAdvisor|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|47|Mujer
+ORO Y LUZ|Booking|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|18|Hombre
+ORO Y LUZ|Google Maps|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|42|Hombre
+ORO Y LUZ|Trivago|2|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|40|Mujer
+EL PAGO|Expedia|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|69|Hombre
+EL PAGO|Google Maps|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|44|Mujer
+MIGUEL ROSI|Booking|4|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|75|Mujer
+MIGUEL ROSI|Booking|3|Un establecimiento correcto con un menú de comida casera a precio razonable. El personal cumple sin destacar en nada.|Neutral|63|Hombre
+MIGUEL ROSI|TripAdvisor|3|Un establecimiento correcto con un menú de comida casera a precio razonable. El personal cumple sin destacar en nada.|Neutral|63|Hombre
+ELBA ALMERIA|Google Maps|3|Un lugar de comida casera normal y corriente. El menú del día es aceptable por el precio, sin grandes lujos.|Neutral|70|Mujer
+ELBA ALMERIA|Trivago|3|El sitio está bien situado, sirven comida casera aceptable pero el servicio es algo lento. Las instalaciones son estándar.|Neutral|63|Mujer
+ELBA ALMERIA|Trivago|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|72|Hombre
+TORRECARDENAS|TripAdvisor|2|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|44|Hombre
+TORRECARDENAS|Expedia|3|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|45|Mujer
+VIAJES JAIRAN   (CENTRAL)|Trivago|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|74|Hombre
+VIAJES JAIRAN   (CENTRAL)|Trivago|3|Un establecimiento correcto con un menú de comida casera a precio razonable. El personal cumple sin destacar en nada.|Neutral|70|Mujer
+VIAJES JAIRAN   (CENTRAL)|Expedia|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|68|Mujer
+LA DATILERA|TripAdvisor|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|65|Hombre
+LA DATILERA|Booking|4|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|34|Hombre
+BAÑOS SIERRA ALHAMILLA|Trivago|3|Estancia pasable. Es un sitio de paso correcto, la comida es casera y tradicional pero el local necesita una reforma.|Neutral|45|Hombre
+BAÑOS SIERRA ALHAMILLA|Booking|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|62|Mujer
+BAÑOS SIERRA ALHAMILLA|Expedia|3|Está bien para parar en ruta y tomar un menú de comida casera rápido. Instalaciones pasables y ambiente familiar.|Neutral|71|Hombre
+LOS SERENOS II|Trivago|4|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|19|Mujer
+LOS SERENOS II|Trivago|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|42|Mujer
+PLAYACAPRICHO|Booking|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|32|Mujer
+PLAYACAPRICHO|Booking|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|63|Mujer
+BAHIA NAUTICA ALMERIA CABO DE GATA|Trivago|3|Está bien para parar en ruta y tomar un menú de comida casera rápido. Instalaciones pasables y ambiente familiar.|Neutral|63|Mujer
+BAHIA NAUTICA ALMERIA CABO DE GATA|Google Maps|4|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|56|Mujer
+BAHIA NAUTICA ALMERIA CABO DE GATA|Booking|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|74|Hombre
+MONTEMAR PUERTO|Google Maps|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|22|Mujer
+MONTEMAR PUERTO|Booking|4|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|37|Hombre
+MONTEMAR PUERTO|Trivago|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|18|Mujer
+LA ISLETA CENTRO DE BUCEO|TripAdvisor|2|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|18|Mujer
+LA ISLETA CENTRO DE BUCEO|Expedia|3|Un establecimiento correcto con un menú de comida casera a precio razonable. El personal cumple sin destacar en nada.|Neutral|54|Hombre
+LA ISLETA CENTRO DE BUCEO|Google Maps|1|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|50|Hombre
+TAGILI OCIO Y TURISMO (CENTRAL)|Google Maps|2|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|31|Mujer
+TAGILI OCIO Y TURISMO (CENTRAL)|Expedia|4|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|51|Hombre
+TAGILI OCIO Y TURISMO (CENTRAL)|TripAdvisor|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|53|Hombre
+BRISAMAR|Expedia|3|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|33|Mujer
+BRISAMAR|Trivago|4|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|74|Mujer
+BRISAMAR|TripAdvisor|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|31|Mujer
+BARCELO CABO DE GATA|Booking|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|57|Hombre
+BARCELO CABO DE GATA|Google Maps|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|48|Hombre
+BARCELO CABO DE GATA|Booking|3|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|29|Mujer
+GREATHOTELS CIUDAD DE ALMERIA|TripAdvisor|4|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|33|Hombre
+GREATHOTELS CIUDAD DE ALMERIA|TripAdvisor|3|Un lugar de comida casera normal y corriente. El menú del día es aceptable por el precio, sin grandes lujos.|Neutral|43|Mujer
+GREATHOTELS CIUDAD DE ALMERIA|Expedia|3|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|65|Hombre
+"CORTIJO ""LOS PAPELONES"""|Trivago|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|24|Mujer
+"CORTIJO ""LOS PAPELONES"""|TripAdvisor|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|54|Mujer
+POSADA DE EUSTAQUIO|Expedia|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|55|Mujer
+POSADA DE EUSTAQUIO|Google Maps|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|42|Mujer
+OFICINA MUNICIPAL  DE TURISMO DE BEDAR|Trivago|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|62|Mujer
+OFICINA MUNICIPAL  DE TURISMO DE BEDAR|TripAdvisor|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|54|Hombre
+OFICINA MUNICIPAL  DE TURISMO DE BEDAR|TripAdvisor|1|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|57|Hombre
+OFICINA MUNICIPAL DE TURISMO DE ALMERÍA|Trivago|5|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|18|Mujer
+OFICINA MUNICIPAL DE TURISMO DE ALMERÍA|Google Maps|2|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|49|Hombre
+LOS SERENOS I|Expedia|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|54|Hombre
+LOS SERENOS I|Booking|1|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|67|Hombre
+PROVENZAL|Booking|3|Precio acorde a lo que ofrecen. Comida casera y raciones normales, una experiencia estándar sin pretensiones.|Neutral|28|Mujer
+PROVENZAL|Expedia|3|Ubicación céntrica ideal para comer algo rápido. Tienen comida casera típica de la zona, un servicio normal ni bueno ni malo.|Neutral|69|Mujer
+LA POSADA DEL CURA|Expedia|3|Precio acorde a lo que ofrecen. Comida casera y raciones normales, una experiencia estándar sin pretensiones.|Neutral|34|Mujer
+LA POSADA DEL CURA|Google Maps|3|Estancia pasable. Es un sitio de paso correcto, la comida es casera y tradicional pero el local necesita una reforma.|Neutral|67|Mujer
+LA POSADA DEL CURA|Trivago|2|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|24|Hombre
+HOTEL MARINA MAR|Google Maps|4|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|57|Mujer
+HOTEL MARINA MAR|Expedia|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|74|Hombre
+OFICINA DE TURISMO DE VÉLEZ BLANCO|TripAdvisor|1|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|43|Mujer
+OFICINA DE TURISMO DE VÉLEZ BLANCO|Expedia|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|60|Mujer
+OFICINA DE TURISMO DE VÉLEZ BLANCO|Trivago|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|42|Hombre
+CORTIJO CELDRAN|Expedia|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|73|Hombre
+CORTIJO CELDRAN|Trivago|3|Estancia pasable. Es un sitio de paso correcto, la comida es casera y tradicional pero el local necesita una reforma.|Neutral|75|Mujer
+CORTIJO CELDRAN|Trivago|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|68|Mujer
+PENSION RESTAURANTE AVENIDA|TripAdvisor|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|36|Mujer
+PENSION RESTAURANTE AVENIDA|TripAdvisor|2|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|54|Hombre
+EJIDOHOTEL|Google Maps|3|El sitio está bien situado, sirven comida casera aceptable pero el servicio es algo lento. Las instalaciones son estándar.|Neutral|58|Mujer
+EJIDOHOTEL|Expedia|5|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|26|Hombre
+CORTIJO ALZABARA|TripAdvisor|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|54|Hombre
+CORTIJO ALZABARA|Trivago|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|19|Hombre
+CORTIJO ALZABARA|Booking|2|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|33|Mujer
+NUEVO VERANDA II|TripAdvisor|3|Estancia pasable. Es un sitio de paso correcto, la comida es casera y tradicional pero el local necesita una reforma.|Neutral|57|Mujer
+NUEVO VERANDA II|Expedia|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|71|Mujer
+LAS PARATAS DEL FAZ|Booking|4|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|47|Mujer
+LAS PARATAS DEL FAZ|Expedia|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|73|Mujer
+LAS PARATAS DEL FAZ|Expedia|2|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|34|Hombre
+LA QUIMERA|Google Maps|4|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|43|Mujer
+LA QUIMERA|Google Maps|3|Cumple con lo básico. Una taberna tradicional de comida casera con un trato del personal simplemente cordial.|Neutral|54|Hombre
+AMANECER|Trivago|3|Cumple con lo básico. Una taberna tradicional de comida casera con un trato del personal simplemente cordial.|Neutral|30|Mujer
+AMANECER|Google Maps|3|Está bien para parar en ruta y tomar un menú de comida casera rápido. Instalaciones pasables y ambiente familiar.|Neutral|41|Hombre
+BALLABONA|Trivago|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|54|Hombre
+BALLABONA|Booking|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|40|Hombre
+BALLABONA|Expedia|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|27|Hombre
+VIAJES FRAHEMAR|TripAdvisor|3|Un establecimiento correcto con un menú de comida casera a precio razonable. El personal cumple sin destacar en nada.|Neutral|56|Hombre
+VIAJES FRAHEMAR|TripAdvisor|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|64|Mujer
+OFICINA  MUNICIPAL DE TURISMO DE MARIA|Expedia|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|44|Hombre
+OFICINA  MUNICIPAL DE TURISMO DE MARIA|TripAdvisor|2|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|36|Hombre
+OFICINA  MUNICIPAL DE TURISMO DE MARIA|Booking|3|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|40|Mujer
+THOMAS COOK GROUP/IDM|Trivago|1|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|61|Hombre
+THOMAS COOK GROUP/IDM|TripAdvisor|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|27|Mujer
+THOMAS COOK GROUP/IDM|Booking|2|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|20|Mujer
+RUTAS POR ALMERÍA|Expedia|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|62|Mujer
+RUTAS POR ALMERÍA|Booking|3|Un lugar de comida casera normal y corriente. El menú del día es aceptable por el precio, sin grandes lujos.|Neutral|41|Hombre
+RUTAS POR ALMERÍA|Google Maps|3|Precio acorde a lo que ofrecen. Comida casera y raciones normales, una experiencia estándar sin pretensiones.|Neutral|30|Mujer
+CORTIJO EL CAMPILLO|TripAdvisor|2|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|35|Hombre
+CORTIJO EL CAMPILLO|Expedia|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|74|Mujer
+BAHIA PLAZA|TripAdvisor|2|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|32|Hombre
+BAHIA PLAZA|TripAdvisor|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|68|Mujer
+CASA LA NORIA|Trivago|3|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|61|Mujer
+CASA LA NORIA|Google Maps|3|Ubicación céntrica ideal para comer algo rápido. Tienen comida casera típica de la zona, un servicio normal ni bueno ni malo.|Neutral|29|Mujer
+EJIDO OESTE|Google Maps|3|Ubicación céntrica ideal para comer algo rápido. Tienen comida casera típica de la zona, un servicio normal ni bueno ni malo.|Neutral|40|Mujer
+EJIDO OESTE|Booking|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|37|Mujer
+EJIDO OESTE|Booking|5|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|64|Mujer
+RECEPCIÓN VERA NATURA|Google Maps|2|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|34|Hombre
+RECEPCIÓN VERA NATURA|Expedia|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|68|Hombre
+RECEPCIÓN VERA NATURA|TripAdvisor|4|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|55|Mujer
+CALATRAVA I|Trivago|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|52|Mujer
+CALATRAVA I|Trivago|2|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|37|Hombre
+HOTEL NEPTUNO|TripAdvisor|5|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|21|Hombre
+HOTEL NEPTUNO|Booking|3|Precio acorde a lo que ofrecen. Comida casera y raciones normales, una experiencia estándar sin pretensiones.|Neutral|63|Hombre
+SURACTIVO|Trivago|3|Cumple con lo básico. Una taberna tradicional de comida casera con un trato del personal simplemente cordial.|Neutral|71|Mujer
+SURACTIVO|Trivago|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|58|Hombre
+SURACTIVO|Google Maps|5|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|38|Hombre
+MONTELES|Expedia|2|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|72|Hombre
+MONTELES|Booking|4|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|60|Hombre
+ABUL BARAKAT|Google Maps|2|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|49|Hombre
+ABUL BARAKAT|TripAdvisor|3|Cumple con lo básico. Una taberna tradicional de comida casera con un trato del personal simplemente cordial.|Neutral|65|Mujer
+ABUL BARAKAT|Google Maps|1|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|23|Hombre
+ALUA GOLF TRINIDAD|Expedia|3|El sitio está bien situado, sirven comida casera aceptable pero el servicio es algo lento. Las instalaciones son estándar.|Neutral|74|Hombre
+ALUA GOLF TRINIDAD|Expedia|4|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|21|Mujer
+ALUA GOLF TRINIDAD|Booking|2|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|55|Mujer
+LAS ERAS II|Trivago|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|54|Mujer
+LAS ERAS II|TripAdvisor|2|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|30|Mujer
+ARTO BLANCO|Trivago|5|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|53|Hombre
+ARTO BLANCO|TripAdvisor|1|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|38|Hombre
+MONTEMAR|Trivago|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|69|Hombre
+MONTEMAR|Trivago|2|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|62|Mujer
+MONTEMAR|Trivago|4|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|36|Mujer
+VIOLETA 1|Google Maps|3|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|62|Mujer
+VIOLETA 1|Expedia|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|35|Hombre
+VIOLETA 1|Google Maps|3|Estancia pasable. Es un sitio de paso correcto, la comida es casera y tradicional pero el local necesita una reforma.|Neutral|68|Mujer
+PITADONIA|Expedia|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|57|Hombre
+PITADONIA|Google Maps|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|70|Mujer
+PITADONIA|Google Maps|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|71|Mujer
+ISUB|Booking|2|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|40|Mujer
+ISUB|Trivago|3|Un establecimiento correcto con un menú de comida casera a precio razonable. El personal cumple sin destacar en nada.|Neutral|62|Hombre
+EL ARRECIFE|TripAdvisor|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|31|Mujer
+EL ARRECIFE|Booking|3|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|44|Mujer
+MAR DE PULPI|Trivago|3|Un lugar de comida casera normal y corriente. El menú del día es aceptable por el precio, sin grandes lujos.|Neutral|53|Mujer
+MAR DE PULPI|Trivago|5|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|65|Mujer
+MAR DE PULPI|TripAdvisor|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|68|Hombre
+MI ABUELA MARIA|Booking|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|54|Mujer
+MI ABUELA MARIA|TripAdvisor|3|Está bien para parar en ruta y tomar un menú de comida casera rápido. Instalaciones pasables y ambiente familiar.|Neutral|45|Mujer
+MI ABUELA MARIA|Booking|5|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|22|Mujer
+CERRO DEL POZO|Booking|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|44|Hombre
+CERRO DEL POZO|Expedia|4|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|34|Mujer
+AMERICANO|Google Maps|3|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|68|Mujer
+AMERICANO|Expedia|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|31|Mujer
+AMERICANO|Trivago|3|Cumple con lo básico. Una taberna tradicional de comida casera con un trato del personal simplemente cordial.|Neutral|19|Hombre
+VILLAS MOJAMAR PLAYA|Booking|5|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|18|Hombre
+VILLAS MOJAMAR PLAYA|Booking|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|63|Mujer
+LA CASA DE GLORIA|Expedia|3|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|43|Hombre
+LA CASA DE GLORIA|Booking|3|Estancia pasable. Es un sitio de paso correcto, la comida es casera y tradicional pero el local necesita una reforma.|Neutral|62|Hombre
+LA CASA DE GLORIA|Trivago|2|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|39|Mujer
+VIAJES Y CIRCUITOS ISAHER (CENTRAL)|Google Maps|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|66|Hombre
+VIAJES Y CIRCUITOS ISAHER (CENTRAL)|Expedia|3|Está bien para parar en ruta y tomar un menú de comida casera rápido. Instalaciones pasables y ambiente familiar.|Neutral|63|Mujer
+VIAJES Y CIRCUITOS ISAHER (CENTRAL)|TripAdvisor|1|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|48|Mujer
+BF ROOMS CARBONERAS|Trivago|2|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|67|Hombre
+BF ROOMS CARBONERAS|Booking|5|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|19|Hombre
+BELLAVISTA|TripAdvisor|3|Ubicación céntrica ideal para comer algo rápido. Tienen comida casera típica de la zona, un servicio normal ni bueno ni malo.|Neutral|70|Hombre
+BELLAVISTA|Trivago|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|68|Mujer
+EL LUCERO I|Google Maps|4|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|71|Hombre
+EL LUCERO I|Booking|3|Un establecimiento correcto con un menú de comida casera a precio razonable. El personal cumple sin destacar en nada.|Neutral|61|Hombre
+EL LUCERO I|Expedia|1|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|27|Hombre
+LA POSADA DE PACO|Expedia|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|49|Mujer
+LA POSADA DE PACO|Expedia|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|54|Mujer
+LA POSADA DE PACO|Booking|3|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|62|Hombre
+EL PUENTE|Booking|3|El sitio está bien situado, sirven comida casera aceptable pero el servicio es algo lento. Las instalaciones son estándar.|Neutral|73|Hombre
+EL PUENTE|Trivago|3|Precio acorde a lo que ofrecen. Comida casera y raciones normales, una experiencia estándar sin pretensiones.|Neutral|65|Hombre
+SOPALMO|Trivago|5|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|68|Mujer
+SOPALMO|Booking|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|27|Mujer
+SOPALMO|TripAdvisor|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|60|Hombre
+BAHIA SERENA|Google Maps|4|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|39|Hombre
+BAHIA SERENA|Booking|1|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|28|Hombre
+OFICINA DE INFORMACION TURISTICA|TripAdvisor|2|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|67|Mujer
+OFICINA DE INFORMACION TURISTICA|Expedia|2|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|56|Hombre
+AGADES|Trivago|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|37|Mujer
+AGADES|Expedia|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|35|Hombre
+MARTINEZ|Trivago|5|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|28|Hombre
+MARTINEZ|Expedia|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|74|Hombre
+LAS OLAS|TripAdvisor|2|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|72|Mujer
+LAS OLAS|Expedia|2|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|48|Mujer
+LAS OLAS|Booking|5|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|55|Mujer
+COMPLEJO SAL MARINA|Google Maps|2|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|46|Mujer
+COMPLEJO SAL MARINA|Trivago|3|Un lugar de comida casera normal y corriente. El menú del día es aceptable por el precio, sin grandes lujos.|Neutral|28|Mujer
+MOLINO FERNAN PEREZ|TripAdvisor|4|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|66|Hombre
+MOLINO FERNAN PEREZ|Google Maps|3|Un establecimiento correcto con un menú de comida casera a precio razonable. El personal cumple sin destacar en nada.|Neutral|24|Mujer
+MOLINO FERNAN PEREZ|Expedia|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|39|Mujer
+VIRGEN DEL MAR HOLIDAYS|TripAdvisor|3|Un lugar de comida casera normal y corriente. El menú del día es aceptable por el precio, sin grandes lujos.|Neutral|19|Hombre
+VIRGEN DEL MAR HOLIDAYS|TripAdvisor|1|Precio totalmente elevado para lo que ofrecen. La limpieza deja mucho que desear y las camas eran sumamente duras e incómodas.|Negativa|41|Hombre
+V.T.A.R.|Expedia|3|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|75|Mujer
+V.T.A.R.|Expedia|2|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|69|Hombre
+V.T.A.R.|TripAdvisor|4|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|65|Hombre
+"APARTAMENTOS LOS ""BAYIYOS"""|Google Maps|3|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|35|Hombre
+"APARTAMENTOS LOS ""BAYIYOS"""|Google Maps|5|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|30|Mujer
+"APARTAMENTOS LOS ""BAYIYOS"""|TripAdvisor|4|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|30|Hombre
+ROQUETAS|Trivago|5|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|24|Mujer
+ROQUETAS|Expedia|4|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|20|Hombre
+VISOL TOURS|TripAdvisor|3|Un lugar de comida casera normal y corriente. El menú del día es aceptable por el precio, sin grandes lujos.|Neutral|56|Hombre
+VISOL TOURS|Booking|5|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|18|Mujer
+OVERA|TripAdvisor|2|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|44|Hombre
+OVERA|TripAdvisor|2|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|64|Hombre
+LA ESCAPADA|Google Maps|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|54|Hombre
+LA ESCAPADA|TripAdvisor|4|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|22|Hombre
+AZABACHE|TripAdvisor|4|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|29|Hombre
+AZABACHE|Booking|5|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|65|Mujer
+AZABACHE|Expedia|5|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|28|Mujer
+EXE ALMERIA CENTRO|Expedia|2|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|34|Mujer
+EXE ALMERIA CENTRO|Google Maps|3|El sitio está bien situado, sirven comida casera aceptable pero el servicio es algo lento. Las instalaciones son estándar.|Neutral|72|Hombre
+EXE ALMERIA CENTRO|Booking|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|41|Hombre
+AIRBAG|TripAdvisor|2|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|44|Mujer
+AIRBAG|Expedia|3|Estancia pasable. Es un sitio de paso correcto, la comida es casera y tradicional pero el local necesita una reforma.|Neutral|23|Hombre
+AIRBAG|Trivago|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|46|Mujer
+MARINA PLAYA|Expedia|1|Servicio lamentable, tardaron más de una hora para hacernos el check-in. La comida estaba fría y el personal fue antipático.|Negativa|42|Mujer
+MARINA PLAYA|Trivago|2|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|50|Mujer
+CASA BENEDICT HELENA|Booking|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|30|Mujer
+CASA BENEDICT HELENA|Trivago|5|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|47|Hombre
+LOS SERENOS III|Google Maps|4|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|33|Hombre
+LOS SERENOS III|TripAdvisor|3|Cumple con lo básico. Una taberna tradicional de comida casera con un trato del personal simplemente cordial.|Neutral|57|Mujer
+LOS SERENOS III|Expedia|2|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|70|Mujer
+KÚSPIDE, OCIO, DEPORTE Y AVENTURA|Expedia|4|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|70|Hombre
+KÚSPIDE, OCIO, DEPORTE Y AVENTURA|Google Maps|2|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|32|Hombre
+KÚSPIDE, OCIO, DEPORTE Y AVENTURA|Trivago|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|53|Hombre
+OHTELS CABO GATA|TripAdvisor|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|63|Hombre
+OHTELS CABO GATA|Trivago|3|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|45|Mujer
+EN LA MAJADA REDONDA II|Expedia|3|Estancia pasable. Es un sitio de paso correcto, la comida es casera y tradicional pero el local necesita una reforma.|Neutral|60|Hombre
+EN LA MAJADA REDONDA II|Trivago|1|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|21|Hombre
+EN LA MAJADA REDONDA II|TripAdvisor|3|Precio acorde a lo que ofrecen. Comida casera y raciones normales, una experiencia estándar sin pretensiones.|Neutral|41|Mujer
+CORTIJO EL PINO|Trivago|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|48|Hombre
+CORTIJO EL PINO|Google Maps|4|Tiene una ubicación increíble frente al mar, pero los precios son desorbitados para el nivel de servicio actual. Regular.|Inconclusa|74|Hombre
+CORTIJO EL PINO|TripAdvisor|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|19|Hombre
+LOS ALBARDINALES (CASA LECHÍN Y CASA PICUAL)|Booking|2|El hotel es moderno y cómodo, sin embargo la gestión de las reservas parece caótica y nos causó bastante estrés al llegar.|Inconclusa|68|Mujer
+LOS ALBARDINALES (CASA LECHÍN Y CASA PICUAL)|Google Maps|3|Ubicación céntrica ideal para comer algo rápido. Tienen comida casera típica de la zona, un servicio normal ni bueno ni malo.|Neutral|40|Mujer
+LOS ALBARDINALES (CASA LECHÍN Y CASA PICUAL)|Booking|2|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|31|Mujer
+CORTIJO LAS PERSIANAS AZULES|TripAdvisor|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|49|Hombre
+CORTIJO LAS PERSIANAS AZULES|TripAdvisor|3|Precio acorde a lo que ofrecen. Comida casera y raciones normales, una experiencia estándar sin pretensiones.|Neutral|64|Mujer
+JUAN DE AUSTRIA II|Booking|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|73|Mujer
+JUAN DE AUSTRIA II|TripAdvisor|3|Instalaciones normales y limpias. Ofrecen raciones y platos combinados de cocina casera aceptable. El desayuno es básico.|Neutral|63|Mujer
+JUAN DE AUSTRIA II|Booking|5|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|57|Mujer
+NATSUN|Expedia|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|25|Mujer
+NATSUN|Trivago|3|Un lugar de comida casera normal y corriente. El menú del día es aceptable por el precio, sin grandes lujos.|Neutral|72|Hombre
+VIAJES CARREFOUR|Trivago|3|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|27|Hombre
+VIAJES CARREFOUR|Booking|3|Un lugar de comida casera normal y corriente. El menú del día es aceptable por el precio, sin grandes lujos.|Neutral|51|Mujer
+VIAJES CARREFOUR|Google Maps|2|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|32|Mujer
+CATEDRAL|Trivago|3|El sitio está bien situado, sirven comida casera aceptable pero el servicio es algo lento. Las instalaciones son estándar.|Neutral|40|Hombre
+CATEDRAL|Google Maps|4|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|29|Mujer
+ALOE-VERA|TripAdvisor|1|Instalaciones anticuadas y descuidadas. El baño tenía pérdidas de agua y el wifi nunca llegó a funcionar correctamente.|Negativa|75|Mujer
+ALOE-VERA|Trivago|5|Una maravilla de lugar. El personal cuida cada detalle, las instalaciones están impecables y el servicio es excelente. Volveremos sin duda.|Positiva|34|Mujer
+ALOE-VERA|Booking|2|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|70|Mujer
+LOS FAROLILLOS|TripAdvisor|5|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|64|Mujer
+LOS FAROLILLOS|Booking|3|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|42|Mujer
+JUAN DE AUSTRIA I|Google Maps|4|Un sitio mágico, el trato recibido fue de lujo. El desayuno espectacular y las vistas inmejorables. Un 10 de 10.|Positiva|74|Mujer
+JUAN DE AUSTRIA I|TripAdvisor|5|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|28|Hombre
+J.126, RUTAS DE NATURALEZA|Trivago|5|Excelente relación calidad-precio. La ubicación es ideal para hacer turismo y la atención al cliente de primera.|Positiva|73|Mujer
+J.126, RUTAS DE NATURALEZA|Google Maps|4|Estancia perfecta. Todo súper limpio, las camas son comodísimas y hay mucha tranquilidad. Totalmente recomendable.|Positiva|72|Mujer
+J.126, RUTAS DE NATURALEZA|Expedia|4|Por un lado las instalaciones y la piscina son geniales, pero por otro el trato del personal en recepción nos dejó una sensación muy extraña.|Inconclusa|53|Hombre
+CERRO LA GORRA|Booking|3|Un lugar de comida casera normal y corriente. El menú del día es aceptable por el precio, sin grandes lujos.|Neutral|75|Mujer
+CERRO LA GORRA|Expedia|4|El sitio es bonito y el desayuno espectacular, pero el ruido constante y las camas duras estropearon parte de la estancia. No sé si volvería.|Inconclusa|23|Mujer
+RUTAS GUIADAS BEDAR MINERA|Booking|1|Una experiencia decepcionante. El ruido de la calle no permitía dormir y no nos dieron ninguna solución en recepción.|Negativa|61|Hombre
+RUTAS GUIADAS BEDAR MINERA|Expedia|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|63|Hombre
+RUTAS GUIADAS BEDAR MINERA|Google Maps|3|Un local normal y corriente de comida casera. No destaca en nada especialmente positivo pero tampoco tiene fallos graves.|Neutral|47|Mujer
+LOS ESCULLOS|TripAdvisor|1|Pésima gestión. Teníamos una reserva confirmada y al llegar nos dijeron que no constaba en el sistema. No lo recomiendo.|Negativa|20|Mujer
+LOS ESCULLOS|TripAdvisor|4|Nos ha encantado todo. Un ambiente muy acogedor, todo muy limpio y ordenado. Altamente recomendado para familias.|Positiva|68|Mujer
+LOS ESCULLOS|TripAdvisor|3|El sitio está bien situado, sirven comida casera aceptable pero el servicio es algo lento. Las instalaciones son estándar.|Neutral|63|Mujer
+SPAIN ACTIVA MOJACAR|TripAdvisor|4|La comida del buffet estaba buenísima, pero la limpieza de la habitación el primer día fue inexistente. Te quedas con sentimientos encontrados.|Inconclusa|61|Hombre
