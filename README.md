@@ -9,7 +9,7 @@
 
 ---
 
-## 📊 Presentación Ejecutiva del Proyecto
+## 📊 Presentación
 
 Para conocer en profundidad la arquitectura del negocio, los desafíos técnicos superados y las líneas de innovación tecnológica de una manera visual y atractiva, accede a nuestra documentación interactiva:
 
